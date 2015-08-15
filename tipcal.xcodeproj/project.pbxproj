@@ -64,6 +64,7 @@
 				D5E055C91B7DA31E00C31227 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		D5E055C91B7DA31E00C31227 /* Products */ = {
 			isa = PBXGroup;
